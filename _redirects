@@ -1,5 +1,23 @@
-/ https://www.centerofportugal.com/togetherness 301!
-/pt/* https://www.centerofportugal.com/pt/togetherness/:splat 301!
-/es/* https://www.centerofportugal.com/es/togetherness/:splat 301!
-/fr/* https://www.centerofportugal.com/fr/togetherness/:splat 301!
-/de/* https://www.centerofportugal.com/de/togetherness/:splat 301!
+/ https://www.centerofportugal.com/togetherness/ 301!
+/pt/ https://www.centerofportugal.com/pt/togetherness/ 301!
+/es/ https://www.centerofportugal.com/es/togetherness/ 301!
+/fr/ https://www.centerofportugal.com/fr/togetherness/ 301!
+/de/ https://www.centerofportugal.com/de/togetherness/ 301!
+
+/article/* https://www.centerofportugal.com/article/:splat 301!
+/pt/artigo/* https://www.centerofportugal.com/pt/artigo/:splat 301!
+/es/articulo/* https://www.centerofportugal.com/es/articulo/:splat 301!
+/fr/article/* https://www.centerofportugal.com/fr/article/:splat 301!
+/de/artikel/* https://www.centerofportugal.com/de/artikel/:splat 301!
+
+/edition/* https://www.centerofportugal.com/togetherness/edition/:splat 301!
+/pt/edicao/* https://www.centerofportugal.com/pt/togetherness/edicao/:splat 301!
+/es/edicion/* https://www.centerofportugal.com/es/togetherness/edicion/:splat 301!
+/fr/edition/* https://www.centerofportugal.com/fr/togetherness/edition/:splat 301!
+/de/auflage/* https://www.centerofportugal.com/de/togetherness/auflage/:splat 301!
+
+/category/* https://www.centerofportugal.com/togetherness/ 301!
+/pt/categoria/* https://www.centerofportugal.com/pt/togetherness/ 301!
+/es/categoria/* https://www.centerofportugal.com/es/togetherness/ 301!
+/fr/category/* https://www.centerofportugal.com/fr/togetherness/ 301!
+/de/category/* https://www.centerofportugal.com/de/togetherness/ 301!
