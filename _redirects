@@ -1,0 +1,5 @@
+/ https://www.centerofportugal.com/togetherness 301!
+/pt/* https://www.centerofportugal.com/pt/togetherness/:splat 301!
+/es/* https://www.centerofportugal.com/es/togetherness/:splat 301!
+/fr/* https://www.centerofportugal.com/fr/togetherness/:splat 301!
+/de/* https://www.centerofportugal.com/de/togetherness/:splat 301!
